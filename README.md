@@ -18,8 +18,7 @@
 
 - 📫 How to reach me **https://www.instagram.com/_6anesh_/**
 
-- 📄 Know about my experiences [I am Expert At Graphic Design.](I am Expert At Graphic Design.)
-
+- 📄 Know about my experiences I am Expert At Graphic Design.
 - ⚡ Fun fact **I think I am Funny**
 <br>
 
