@@ -53,7 +53,7 @@
 <br>
 <br>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 <p align="left">
     <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshXd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
