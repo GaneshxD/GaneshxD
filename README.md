@@ -7,18 +7,13 @@
 
 - 🔭 I’m currently working on **Flutter and Web App development**
 
-- 🌱 I’m currently learning **Java, Flutter**
+- 👯 [Instagram](https://www.instagram.com/_6anesh_/)
 
-- 👯 I’m looking to collaborate for 1 project [Instagram](https://www.instagram.com/_6anesh_/)
-
-- 🤝 I’m looking for help with **Dm Me in Insta**
-
-- 💬 Ask me about **C,C++,Django,UI Design,GraphicDesign**
+- 💬 Ask me about Anything*
 
 - 📫 How to reach me **https://www.instagram.com/_6anesh_/**
 
 - 📄 Know about my experiences I am Expert At Graphic Design.
-- ⚡ Fun fact **I think ??**
 <br>
 
 
@@ -40,7 +35,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ganeshdotcom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ganeshdotcom" /></a><a href="ko-fi.com/ganeshdotcom
-"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/ganeshdotcom" /></a></p><br><br>
+"> </a></p><br><br>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayanbavisetti&show_icons=true&locale=en&layout=compact&theme=onedark" alt="GaneshXd" /></p><br>
