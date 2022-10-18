@@ -1,6 +1,6 @@
 <img src="https://www.cnet.com/a/img/resize/ac44508a731a4dfd76928d85b9108a49a6c8073b/2019/07/29/6109b01f-e32f-457d-9533-cd55b68ba5ba/d6j9ongwaam4yrm.png?auto=webp&fit=crop&height=675&width=1200" width="90%%"><br>
 <h1 align="center">Hi 👋, I'm Ganesh Dahal</h1>
-<h3 align="center">WTF I am From Nepal</h3>
+<h3 align="center">I am From Nepal</h3>
 <img src="https://komarev.com/ghpvc/?username=ganeshgd6&label=Profile%20views&color=0e75b6&style=flat" alt="GaneshXd" /> </p>
 
 
