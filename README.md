@@ -38,10 +38,10 @@
 "> </a></p><br><br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayanbavisetti&show_icons=true&locale=en&layout=compact&theme=onedark" alt="GaneshXd" /></p><br>
+
 <br>
 <br><br><br><br><br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=GaneshXd&show_icons=true&locale=en&theme=onedark" alt="GaneshXd" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GaneshXd&show_icons=true&locale=en&theme=onedark" alt="GaneshXd" /></p>
 <br>
 <br>
 <br>
