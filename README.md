@@ -1,4 +1,4 @@
-<center><img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="90%%"><br></center>
+<center><img src="https://www.sliderrevolution.com/wp-content/uploads/2021/09/sliderrevolution-blog-image-1.gif" width=" 100%"><br></center>
 <h1 align="center">Hi 👋, I'm Ganesh Dahal</h1>
 <h3 align="center">Nepal</h3>
 <a href=#><img src="contributions.svg"></a>
@@ -42,17 +42,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ganeshdotcom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ganeshdotcom" /></a><a href="ko-fi.com/ganeshdotcom
 "> </a></p><br><br>
-<br>
-
-
-<br>
-<br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GaneshXd&show_icons=true&locale=en&theme=onedark" alt="GaneshXd" /></p>
-<br>
-<br>
-<br>
-<br>
-
 <br><br><br>
 <p align="left">
     <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
