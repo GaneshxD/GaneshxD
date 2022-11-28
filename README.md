@@ -3,6 +3,14 @@
 <h3 align="center">Nepal</h3>
 <img src="https://komarev.com/ghpvc/?username=ganeshgd6&label=Profile%20views&color=0e75b6&style=flat" alt="GaneshXd" /> </p>
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
+
 
 
 - 🔭 I’m currently working on **Flutter and Web App development**
