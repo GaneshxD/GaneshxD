@@ -1,8 +1,6 @@
 <center><img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="90%%"><br></center>
 <h1 align="center">Hi 👋, I'm Ganesh Dahal</h1>
 <h3 align="center">Nepal</h3>
-<img src="https://komarev.com/ghpvc/?username=ganeshgd6&label=Profile%20views&color=0e75b6&style=flat" alt="GaneshXd" /> </p>
-
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
