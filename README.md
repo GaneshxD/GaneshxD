@@ -41,12 +41,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ganeshdotcom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ganeshdotcom" /></a><a href="ko-fi.com/ganeshdotcom
-"> </a></p><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GaneshXd&show_icons=true&locale=en&theme=onedark" alt="GaneshXd" /></p>
-<br><br><br>
-<p align="left">
-    <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
-      -
-    </a>
+"> </a></p><br>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=GaneshXd&show_icons=true&locale=en&theme=onedark" alt="GaneshXd" /></p>
+<br>
 </p>
 
