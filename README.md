@@ -1,4 +1,4 @@
-<center><img src="https://www.sliderrevolution.com/wp-content/uploads/2021/09/sliderrevolution-blog-image-1.gif" width=" 100%"><br></center>
+
 <h1 align="center">Hi 👋, I'm Ganesh Dahal</h1>
 <h3 align="center">Nepal</h3>
 <a href=#><img src="contributions.svg"></a>
