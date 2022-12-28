@@ -43,6 +43,5 @@
 <p><a href="https://www.buymeacoffee.com/ganeshdotcom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ganeshdotcom" /></a><a href="ko-fi.com/ganeshdotcom
 "> </a></p><br>
 
-<br>
 </p>
 
