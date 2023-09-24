@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Flutter and Web App development**
 
-- 👯 [Instagram](https://www.instagram.com/_6anesh_/)
+- 👯 [Website](https://shopeefast-store.onrender.com/)
 
 - 💬 Ask me about Anything*
 
