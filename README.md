@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Flutter and Web App development**
 
-- 👯 [Website](https://shopeefast-store.onrender.com/)
+- 👯 [Website](https://ganeshdahal-audioghar.netlify.app/)
 
 - 💬 Ask me about Anything*
 
