@@ -4,12 +4,7 @@
 <a href=#><img src="contributions.svg"></a>
  
     
- 
-- 🔭 I’m currently working on **Flutter and Web App development**
 
-- 💬 Ask me about Anything*
-
-- 📄 Know about me I am a Graphic Designer for now lol.
 <br>
 
 
