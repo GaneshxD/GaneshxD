@@ -1,2 +1,1 @@
-<a href="#"><img src="header.gif"></a>
-<a href="#"><img src="second.png"></a>
+<a href="#"><img src="head.gif"></a>
