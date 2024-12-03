@@ -1,10 +1,7 @@
 <a href="#"><img src="Head2.png"></a>
+<img src="borderseperator.gif">
+<img align='left' src="card.gif" width="450">
 
-<img align='left' src="gd1.gif" width="500">
-
-
-<br>
-<br>
 <h3 align="left">Languages </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
