@@ -1,6 +1,6 @@
 <a href="#"><img src="Head2.png"></a>
 
-<img align='left' src="gd.gif" width="500">
+<img align='left' src="gd1.gif" width="500">
 
 
 <br>
