@@ -1,7 +1,8 @@
 <a href="#"><img src="Head2.png"></a>
 <img src="borderseperator.gif">
 <img align='left' src="card.gif" width="450">
-
+<br>
+<br>
 <h3 align="left">Languages </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -42,7 +43,9 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  
+
 </div>
+  <img src="borderseperator.gif">
+  <a href="https://github.com/GaneshxD/github-readme-activity-graph"><img alt="GD" src="https://github-readme-activity-graph.vercel.app/graph/?username=GaneshxD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="392px"/></a>
 <br clear="both">
 
