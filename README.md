@@ -40,14 +40,15 @@
 <h3 align="left">Social Media: </h3>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"src="https://www.instagram.com/ganexdahal/" height="30" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" src="#" height="30" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" src="www.linkedin.com/in/gdxd" height="30" alt="linkedin logo"  />
 
 </div>
   <img src="borderseperator.gif">
   <a href="https://github.com/GaneshxD/github-readme-activity-graph"><img alt="GD" src="https://github-readme-activity-graph.vercel.app/graph/?username=GaneshxD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="392px"/></a>
+
   <img src="borderseperator.gif">
-  <img src"footer.png">
+  
 <br clear="both">
 
