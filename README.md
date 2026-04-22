@@ -22,7 +22,7 @@
 <div align="left">
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="30" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro.svg" alt="Premiere Pro" height="30" /></a>
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender" height="30" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/3840px-Blender_logo_no_text.svg.png" alt="Blender" height="30" /></a>  
 </div>
 <h3 align="left">Designing:</h3>
 <div align="left"> 
